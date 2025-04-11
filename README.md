@@ -6,12 +6,12 @@
 
 ## Minhas Habilidades :
 
-[![HTML-CSS](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://github.com/BarbosAlan)
+[![HTML-CSS](https://skillicons.dev/icons?i=html,css,js,spring,java,py,flutter)](https://github.com/BarbosAlan)
 
 
 #### Estudando no momento :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,py,django,git,github)](https://github.com/BarbosAlan)
+[![Habilidades](https://skillicons.dev/icons?i=js,py,django,mysql)](https://github.com/BarbosAlan)
 
 #### Ferramentas de Trabalho :
 
